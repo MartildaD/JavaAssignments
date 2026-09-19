@@ -371,6 +371,7 @@ public class NokiaMenu {
                             1 Call settings
                             2 Phone settings
                             3 Security settings
+                            4 Restore factory settings
                             0 Back
                             """;
 
